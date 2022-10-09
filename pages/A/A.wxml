@@ -1,0 +1,4 @@
+<!--pages/A/A.wxml-->
+<button bindtap="HitA">A按钮</button>
+<button bindtap="HitB">B按钮</button>
+<button bindtap="HitC">C按钮</button>

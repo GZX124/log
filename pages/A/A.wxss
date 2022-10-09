@@ -1,0 +1,5 @@
+/* pages/A/A.wxss */
+button{
+    margin-top: 30rpx;
+    background-color: aqua;
+}
